@@ -1,0 +1,8 @@
+.buttonConfig {
+  height: 45px;
+  width: 45px;
+  padding: 10px;
+  margin: 3px 5px;
+  font-weight: bolder;
+  font-size: medium;
+}
